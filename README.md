@@ -22,11 +22,15 @@ keyboard for its default position. The third column represents the key
 which one wants to bind to this position.
 
 2. Edit the map.asc file. For example, to swap '-' and '+' one need to edit 12 and 13 lines like this:
+```shell
 FN_OFF - +
 FN_OFF + -
+```
 
 3. To write a changes to the keyboard just place map.asc file name to the first argument of ifd68:
-`./ifd68 map.asc`
+```shell
+./ifd68 map.asc
+```
 
 Caution: when one want to burn a new firmware he/she need to do it from the other keyboard or reboot (reconnect the USB cord) the keyboard after burning.
 
