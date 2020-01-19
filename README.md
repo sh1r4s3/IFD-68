@@ -13,7 +13,9 @@ Directory structure:
 
 Instructions to burn a firmware:
 
-1. at the first time run the `./ifd68` without any arguments. It will
+0. Go to the burner/ directory and run `make` to compile the ifd68 binary.
+
+1. At the first time run the `./ifd68` without any arguments. It will
 generate a default map.asc file, a map of keys for keyboard. Each line
 of a file is a record. Each record consists of three columns separated
 by a whitespace. The first column is a FN_MOD (FN_OFF - FN key
