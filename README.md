@@ -38,4 +38,4 @@ Caution: when one want to burn a new firmware he/she need to do it from the othe
 
 Any help would be great!
 
-Contact: coffe92@gmail.com (Nikita)
+Contact: Nikita Ermakov <sh1r4s3@mail.si-head.nl>
